@@ -268,8 +268,22 @@ ca nous affiche le calendrier et plus ca nous de trouver le jour
 
 **Voici la vérification:**
 
+la reponse est donc le dimanche
+
 <img src="/assets/mission13/mission13.png" height="80%" widght="80%">
 
 ## Mission 14
+
+**Objectif:**
+
+on me demande de crée un racourcci pour la commande ls -A on doit faire juste "la"
+
+    alias la='ls -A'
+
+alias est la pour crée un raccourci la on dit que si on rentre "la" dans le terminale ca lance la commande ls -A
+
+<img src="/assets/mission14/mission14.png" height="80%" widght="80%">
+
+## Mission 15
 
 **Objectif:**
