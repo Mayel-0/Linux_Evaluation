@@ -117,7 +117,7 @@ pour tous les rm en une ligne et pas
 
 **Objectif:**
 
-Il nous faut Déplacer les piece du jardin donc notre coffre dans la hutte de la mission précédante
+Il nous faut Déplacer les pieces du jardin donc notre coffre dans la hutte de la mission précédante
 
 pour ca j'utilise une commande
 
@@ -136,3 +136,25 @@ pour tout deplacer d'un coup vers notre coffre en lui donnant sont addresse au l
 <img src="/assets/mission6/check.png" height="80%" widght="80%">
 
 ## Mission 7
+
+**Objectif:**
+
+Il nous faut Déplacer tout les pieces cacher du jardin donc notre coffre dans la hutte de la mission précédante
+
+comme c'est "piece" sont cacher on doit utiliser
+
+    /ls -a //pour affichier les fichier cacher
+
+puis on les move
+
+    /rm piece_1 piece_2 piece_3 ~/Foret/Hutte/Coffre
+
+<img src="/assets/mission7/mission7.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission7/check.png" height="80%" widght="80%">
+
+## Mission 8
+
+**Objectif:**
