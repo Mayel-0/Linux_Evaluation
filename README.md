@@ -11,4 +11,10 @@ Pour cela j'ai utiliser les commande de base de déplacement
     /cd <dossier/>
     /ls <dossier/> //pour afficher l'arborésenace de ce fichier
 
-<img src="/assets/mission1/mission1.1.png" height="100%" widght="100%">
+<img src="/assets/mission1/mission1.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission1/check.png" height="60%" widght="60%">
+
+## Mission 2
