@@ -372,3 +372,27 @@ pour arreter le feux d'artifice on doit utiliser les touche _controle, C_
 ## Mission 21
 
 **Objectif:**
+
+on doit chercher une piece dans le Labyrinthe du jardin et la move dans notre coffre
+
+pour ca on vas pas faire fichier pas richier on vas faire un ls -R de Labyrinthe
+
+    Ls -R
+
+cette commande affiche tout les fichier, dossier, sous dossier, fichier cacher , etc ... que contien notre Labyrinthe
+
+ensuite plus qu'a move la piece quand on la trouver
+
+    mv ~/Jardin/Labyrinthe/./8e2de5f3f2635/9de3f2319ccb34aae/23c7b4ff02c096ec64d3a30c95/OOOOO_piece_de_bronze_OOOOO ~/Foret/Hutte/Coffre/
+
+on a notre premier addresse vers la seconde
+
+<img src="/assets/mission21/mission21.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission21/check.png" height="80%" widght="80%">
+
+## Mission 22
+
+**Objectif:**
