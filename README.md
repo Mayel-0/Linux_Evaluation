@@ -341,3 +341,15 @@ je ne peut pas faire cette exercice.
 ## Mission 19
 
 **Objectif:**
+
+on nous demande de lancer 3 feux d'artifice donc la command _flarigo_ pour lancer les feux d'artifice sauf faut faire un _gsh check_ en même temps de lancer nos feux d'artifice
+
+    /gsh check & flarigo & flarigo & flarigo
+
+on utilise donc des & pour lancer nos commande en même temps.
+
+<img src="/assets/mission19/mission19.png" height="80%" widght="80%">
+
+## Mission 20
+
+**Objectif:**
