@@ -442,3 +442,26 @@ et ensuite on mv
 ## Mission 24
 
 **Objectif:**
+
+on doit ce deplacer jusqu'a la grotte ou ce trouve "servillus" on doit rester avec lui et trouver sa resete de Tisane au herbes
+
+    /ls Livre_de_potions/
+
+une fois quon a fait ca on doit afficher la table_des_matieres pour trouver dans quelle page est la recette de Tisane au herbes
+
+    /cat Livre_de_potions/table_des_matieres
+
+on trouver alors l'information la recette est en page 7 donc on fait
+
+    /cat Livre_de_potions/page_07
+
+sauf qu'il y a plusieurs recette sur la page_07 donc on doit couper la page en fesant un Head avec le nombre de ligne qui correspond a la recette
+
+    /head -n 6 ~/Montagne/Grotte/Livre_de_potions/page_07
+    
+et la on a que la recette de la Tisane au herbes
+<img src="/assets/mission24/mission24.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission24/check.png" height="80%" widght="80%">
