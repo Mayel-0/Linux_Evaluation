@@ -319,3 +319,25 @@ on précis bien la route depuis l'origine sinon ca ne fonctionne pas puisque l'a
 ## Mission 17
 
 **Objectif:**
+
+On doit supprimer la raine des arraignées en 20 secondes ca cachette ce situe dans la cave donc on doit ce deplacer jusqu'a elle et la rm tout ca ce passe dasn des fichiers et dossier cacher .
+
+    /rm <.nom>
+    /la -a
+    /cd <.dossier>
+
+pour aller plus vite on utilise la touche TAB pour ecrire les noms des fichiers et dossiers
+
+<img src="/assets/mission17/mission17.png" height="80%" widght="80%">
+
+## Mission 18
+
+**ERREUR:**
+
+je ne peut pas faire cette exercice.
+
+<img src="/assets/mission18/mission18.png" height="80%" widght="80%">
+
+## Mission 19
+
+**Objectif:**
