@@ -3,6 +3,7 @@
 ## Mission 1
 
 **Objectif:**
+
 Sur cette mission on nous demande de de nous rendre tout en haut du Donjon.
 
 Pour cela j'ai utiliser les commande de base de déplacement
@@ -18,3 +19,20 @@ Pour cela j'ai utiliser les commande de base de déplacement
 <img src="/assets/mission1/check.png" height="60%" widght="60%">
 
 ## Mission 2
+
+**Objectif:**
+
+Allez dans la cave du château.
+
+Pour cela j'ai utiliser les commande de base de déplacement
+
+    /ls
+    /cd <dossier/>
+    /ls <dossier/> //pour afficher l'arborésenace de ce fichier
+    /cd ../
+
+<img src="/assets/mission2/mission2.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission2/check.png" height="60%" widght="60%">
