@@ -257,3 +257,19 @@ on copie le tableau vers le Coffre
 ## Mission 13
 
 **Objectif:**
+
+on me demande de trouve le jour que sera le 25-05-2003.
+
+pou cela rien de plus simple on prennt l'année et on fait
+
+    /cale 2003
+
+ca nous affiche le calendrier et plus ca nous de trouver le jour
+
+**Voici la vérification:**
+
+<img src="/assets/mission13/mission13.png" height="80%" widght="80%">
+
+## Mission 14
+
+**Objectif:**
