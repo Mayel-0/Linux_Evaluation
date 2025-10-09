@@ -235,3 +235,25 @@ les \*\* vont viser tout les tapisserie présent dans le /Chateau/Grande_salle/ 
 ## Mission 12
 
 **Objectif:**
+
+on doit crée une copie du plus ancien tableau présent dans le 1er etage du donjon /Chateau/Donjon/Premier_etage/
+
+pour ca on utilise
+
+    /ls -l ~/Chateau/Donjon/Premier_etage/ //cela nous donne plus d'information notament la date de creation
+
+ensuit on fait comme pour les autre missions
+
+    cp ~/Chateau/Donjon/Premier_etage/tableau_zNyYvvKI ~/Foret/Hutte/Coffre
+
+on copie le tableau vers le Coffre
+
+<img src="/assets/mission12/mission12.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission12/check.png" height="80%" widght="80%">
+
+## Mission 13
+
+**Objectif:**
