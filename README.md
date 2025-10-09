@@ -287,3 +287,19 @@ alias est la pour crée un raccourci la on dit que si on rentre "la" dans le ter
 ## Mission 15
 
 **Objectif:**
+
+Cree un fichier journal.txt dans notre coffre
+
+on utilise nano qui vas crée le fichier en plus de l'éditer puisque qu'il n'est pas crée il le fait
+
+    /nano ~/Foret/Hutte/Coffre/journal.txt
+
+<img src="/assets/mission15/mission15.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission15/mission15.1.png" height="80%" widght="80%">
+
+## Mission 16
+
+**Objectif:**
