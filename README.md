@@ -158,3 +158,20 @@ puis on les move
 ## Mission 8
 
 **Objectif:**
+
+On doit rm toute les arraignées cacher présente dans la cave
+
+    /ls -a ~/Chateau/Cave/
+    /rm ~/Chateau/Cave/*araignee*
+
+en utilisant les ** j'indique que cette comande visee tout les fichier contenant le mots entre les ** _ mot _ _ araignee _
+
+<img src="/assets/mission8/mission8.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission8/check.png" height="80%" widght="80%">
+
+## Mission 9
+
+**Objectif:**
