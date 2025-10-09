@@ -84,3 +84,33 @@ et j'ai crée ce que l'on me demander
 **Voici la vérification:**
 
 <img src="/assets/mission4/check.png" height="80%" widght="80%">
+
+## Mission 5
+
+**Objectif:**
+
+On nous demande de rm tout les araignées qui ce trouve dans la cave du chateau
+
+je me deplace
+
+    /cd
+    /cd <dossier/>
+    /ls
+
+et je les retire en utilisant rm
+
+    /rm araignee_1 araignee_2 araignee_3
+
+pour tous les rm en une ligne et pas
+
+    /rm araignee_1
+    /rm araignee_2
+    /rm araignee_3
+
+<img src="/assets/mission5/mission5.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission5/check.png" height="80%" widght="80%">
+
+## Mission 6
