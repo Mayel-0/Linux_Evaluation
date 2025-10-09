@@ -114,3 +114,25 @@ pour tous les rm en une ligne et pas
 <img src="/assets/mission5/check.png" height="80%" widght="80%">
 
 ## Mission 6
+
+**Objectif:**
+
+Il nous faut Déplacer les piece du jardin donc notre coffre dans la hutte de la mission précédante
+
+pour ca j'utilise une commande
+
+    /rm piece_1 piece_2 piece_3 ~/Foret/Hutte/Coffre
+
+pour tout deplacer d'un coup vers notre coffre en lui donnant sont addresse au lieux de faire
+
+    /rm piece_1 ~/Foret/Hutte/Coffre
+    /rm piece_2 ~/Foret/Hutte/Coffre
+    /rm piece_3 ~/Foret/Hutte/Coffre
+
+<img src="/assets/mission6/mission6.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission6/check.png" height="80%" widght="80%">
+
+## Mission 7
