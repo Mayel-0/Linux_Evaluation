@@ -192,3 +192,28 @@ on rajoute le . pour indiquer que on prene en compte les fichiers cacher
 ## Mission 10
 
 **Objectif:**
+
+crée un copie des étendard présent dans la grande salle dans le chateau vers mon coffre dans ma hutte
+
+pour evite de me deplacer je reste dans mon fichier et je donne juste l'addresse pour que les commande face le deplacement a ma place
+
+    /ls ~/Chateau/Grande_salle/
+
+et ensuite j'utilise cp pour copier mes etendard
+
+    /cp ~/Chateau/Grande_salle/etendard_1 ~/Foret/Hutte/Coffre/
+    /cp ~/Chateau/Grande_salle/etendard_2 ~/Foret/Hutte/Coffre/
+    /cp ~/Chateau/Grande_salle/etendard_3 ~/Foret/Hutte/Coffre/
+    /cp ~/Chateau/Grande_salle/etendard_4 ~/Foret/Hutte/Coffre/
+
+je donne l'addresse des etendard et l'adresse de direction de la copie
+
+<img src="/assets/mission10/mission10.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission10/check.png" height="80%" widght="80%">
+
+## Mission 11
+
+**Objectif:**
