@@ -298,7 +298,7 @@ on utilise nano qui vas crée le fichier en plus de l'éditer puisque qu'il n'es
 
 **Voici la vérification:**
 
-<img src="/assets/mission15/mission15.1.png" height="80%" widght="80%">
+<img src="/assets/mission15/mission15.2.png" height="80%" widght="80%">
 
 ## Mission 16
 
