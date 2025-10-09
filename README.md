@@ -61,3 +61,26 @@ et pas faire
 **Voici la vérification:**
 
 <img src="/assets/mission3/check.png" height="80%" widght="80%">
+
+## Mission 4
+
+**Objectif:**
+
+On nous demande de crée une "Hutte" et a l'intérieur de cette derniere on veut crée un "Coffre"
+
+je me suis donc deplacer jusqu'a la foret:
+
+    /cd
+    /cd <dossier/>
+    /ls
+
+et j'ai crée ce que l'on me demander
+
+    /mkdir Hutte
+    /mkdir Hutte/Coffre //pour pas avoir a me deplacer dedans
+
+<img src="/assets/mission4/mission4.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission4/check.png" height="80%" widght="80%">
