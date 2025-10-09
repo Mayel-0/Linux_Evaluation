@@ -417,3 +417,28 @@ et le rm
 ## Mission 23
 
 **Objectif:**
+
+dans cette exercice on nous demande de mv deux pieces d'or dans notre coffre pour ca on doit utiliser find sauf qu'on nous donne pas beaucoup d'information alors on doit nous même nous informer donc on fait
+
+    /man find
+
+Pour avoir le manuel de find
+
+ensuit on trouve l'information que l'on veut et comment on veut l'ecrire
+
+    /find -iname *or*
+
+et ensuite on mv
+
+    /mv ~/Jardin/Labyrinthe/./a9017789/364c25f8fff/fbb878ea2630e843271ba35a8606/piece_d_or_1 ~/Foret/Hutte/Coffre/
+    /mv ~/Jardin/Labyrinthe/./de34cfaf856f8ed/d6c6f5cdcaba8a1d11502a8/c6069c8d740aa43b6c3df97a33196/PieCe_D_oR_2 ~/Foret/Hutte/Coffre/
+
+<img src="/assets/mission23/mission23.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission23/check.png" height="80%" widght="80%">
+
+## Mission 24
+
+**Objectif:**
