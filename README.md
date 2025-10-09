@@ -164,7 +164,7 @@ On doit rm toute les arraignées présente dans la cave
     /ls -a ~/Chateau/Cave/
     /rm ~/Chateau/Cave/*araignee*
 
-en utilisant les ** j'indique que cette comande visee tout les fichier contenant le mots entre les **
+en utilisant les \*\* j'indique que cette comande visee tout les fichier contenant le mots entre les \*\*
 
 <img src="/assets/mission8/mission8.1.png" height="60%" widght="60%">
 
@@ -215,5 +215,23 @@ je donne l'addresse des etendard et l'adresse de direction de la copie
 <img src="/assets/mission10/check.png" height="80%" widght="80%">
 
 ## Mission 11
+
+**Objectif:**
+
+crée un copie des tapisserie présent dans la grande salle dans le chateau vers mon coffre dans ma hutte
+
+Probleme, il y en a beaucoup alors on vas faire cela
+
+    /cp ~/Chateau/Grande_salle/*tapisserie* ~/Foret/Hutte/Coffre
+
+les \*\* vont viser tout les tapisserie présent dans le /Chateau/Grande_salle/ et vont les deplacer vers /Foret/Hutte/Coffre
+
+<img src="/assets/mission11/mission11.1.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission11/check.png" height="80%" widght="80%">
+
+## Mission 12
 
 **Objectif:**
