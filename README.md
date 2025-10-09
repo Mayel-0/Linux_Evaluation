@@ -303,3 +303,19 @@ on utilise nano qui vas crée le fichier en plus de l'éditer puisque qu'il n'es
 ## Mission 16
 
 **Objectif:**
+
+on doit crée un alias de journal qui nous permet d'éditer notre journal.txt
+
+    /alias journal='nano ~/Foret/Hutte/Coffre/journal.txt'
+
+on précis bien la route depuis l'origine sinon ca ne fonctionne pas puisque l'addresse ne sera pas la bonne
+
+~/Foret/Hutte/Coffre/journal.txt
+
+**Voici la vérification:**
+
+<img src="/assets/mission16/mission16.png" height="80%" widght="80%">
+
+## Mission 17
+
+**Objectif:**
