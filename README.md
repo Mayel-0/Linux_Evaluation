@@ -396,3 +396,24 @@ on a notre premier addresse vers la seconde
 ## Mission 22
 
 **Objectif:**
+
+cette exercice est similaire au 21
+on doit juste trouver une piece en argent
+
+toujours
+
+    /ls -R
+
+et le rm
+
+    mv ~/Jardin/Labyrinthe/./641f3117a597325de28d/10ec1fb50700964c9ea5e986cc0ce/4dae7583605be112d3ffa2fffa5d/OOOOO_piece_d_argent_OOOOO ~/Foret/Hutte/Coffre/
+
+<img src="/assets/mission22/mission22.png" height="60%" widght="60%">
+
+**Voici la vérification:**
+
+<img src="/assets/mission22/check.png" height="80%" widght="80%">
+
+## Mission 23
+
+**Objectif:**
