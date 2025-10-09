@@ -353,3 +353,22 @@ on utilise donc des & pour lancer nos commande en même temps.
 ## Mission 20
 
 **Objectif:**
+
+on nous demande de trouver une combinaison pour lancer un gros feux d'artifice. charmiglio XXXX
+
+donc on fait
+
+    /charmiglio abdc
+    /charmiglio abds
+    /charmiglio aerd
+    etc..
+
+jusqua ce que cela foncionne
+
+pour arreter le feux d'artifice on doit utiliser les touche _controle, C_
+
+<img src="/assets/mission20/mission20.png" height="80%" widght="80%">
+
+## Mission 21
+
+**Objectif:**
